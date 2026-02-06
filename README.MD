@@ -22,9 +22,9 @@ Kesimpulan: SessionStorage adalah tab isolated (tab-shared / tab-isolated)
 **Eksperimen 3: Storage Size Comparison**
 1.	Buka DevTools > Application > Storage
 2.	Lihat quota yang tersedia untuk: 
-o	Cookies: ___ KB
-o	LocalStorage: ___ MB
-o	SessionStorage: ___ MB
+o	Cookies: 16 KB
+o	LocalStorage: 8.00 MB
+o	SessionStorage: 8.00 MB
 
 **Eksperimen 4: Decision Quiz**
 Selesaikan semua 4 skenario di bagian "Decision Helper" dan catat alasan untuk setiap jawaban.
